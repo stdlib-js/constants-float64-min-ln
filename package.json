@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/constants-float64-min-ln",
+  "version": "0.0.0",
+  "description": "Natural logarithm of the smallest normalized double-precision floating-point number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float64-min-ln.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "smallest",
+    "minimum",
+    "floating-point",
+    "float64",
+    "float",
+    "64bit",
+    "ieee754",
+    "double",
+    "dbl",
+    "precision",
+    "min",
+    "normalized",
+    "logarithm",
+    "log"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
