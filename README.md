@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@esm/index.mjs';
+import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@v0.0.8-esm/index.mjs';
 ```
 
 #### FLOAT64_MIN_LN
@@ -61,7 +61,7 @@ var bool = ( FLOAT64_MIN_LN === -708.3964185322641 );
 <body>
 <script type="module">
 
-import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@esm/index.mjs';
+import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@v0.0.8-esm/index.mjs';
 
 console.log( FLOAT64_MIN_LN );
 // => -708.3964185322641
