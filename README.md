@@ -144,7 +144,7 @@ Macro for the [natural logarithm][natural-logarithm] of the smallest **normalize
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/max-ln`][@stdlib/constants/float64/max-ln]</span><span class="delimiter">: </span><span class="description">natural logarithm of the maximum double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-ln`][@stdlib/constants/float64/max-ln]</span><span class="delimiter">: </span><span class="description">natural logarithm of the maximum double-precision floating-point number.</span>
 
 </section>
 
