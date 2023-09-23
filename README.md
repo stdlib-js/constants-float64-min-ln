@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@deno/mod.js';
+import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT64_MIN_LN
@@ -67,7 +67,7 @@ var bool = ( FLOAT64_MIN_LN === -708.3964185322641 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@deno/mod.js';
+import FLOAT64_MIN_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-min-ln@v0.1.0-deno/mod.js';
 
 console.log( FLOAT64_MIN_LN );
 // => -708.3964185322641
